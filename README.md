@@ -1,16 +1,25 @@
-## Hi there 👋
+¡Hola! Soy Román
+🔧 Técnico en Mecánica industrial, con más de 30 años de experiencia en Mantenimiento Industrial. Actualmente en transición al análisis de datos
+🧠 Apasionado por la automatización, la resolución de problemas y la programación con Python
+📊 Me enfoco en traducir datos complejos en visualizaciones claras y decisiones efectivas
+🌎 Desde México, siempre aprendiendo y abierto a nuevos desafíos profesionales
 
-<!--
-**Rom5262/Rom5262** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠️ Tecnologías que utilizo  
 
-Here are some ideas to get you started:
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)  
+[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)  
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)](https://matplotlib.org/)  
+[![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+https://skillicons.dev/
+https://github.com/tandpfun/skill-icons/blob/main/icons/Discord.svg
+🚀 Proyectos destacados
+📊 Análisis de ventas con Python y Pandas
+🤖 Automatización de tareas repetitivas con scripts Python
+📈 Visualización interactiva con matplotlib y seaborn
+(Pronto incluiré enlaces a cada uno)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📬 Contacto
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/roman-garay-pérez-202b09139)  
+[![Correo electrónico](https://img.shields.io/badge/Correo%20electr%C3%B3nico-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-garay2772gmail.com)
