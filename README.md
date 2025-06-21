@@ -1,7 +1,8 @@
 ¡Hola! Soy Román
 🔧 Técnico en Mecánica industrial, con más de 30 años de experiencia en Mantenimiento Industrial⚙️
 Diagnóstico de maquinaria🗜️.
-Actualmente en transición al análisis de datos![image](https://github.com/user-attachments/assets/4efd9b6c-e1c8-4820-9fbd-5ccb00fc1f4b).
+Actualmente en transición al análisis de datos
+[image](https://github.com/user-attachments/assets/4efd9b6c-e1c8-4820-9fbd-5ccb00fc1f4b)
 🧠 Apasionado por la automatización, la resolución de problemas y la programación con Python
 📊 Me enfoco en traducir datos complejos en visualizaciones claras y decisiones efectivas
 🌎 Desde México, siempre aprendiendo y abierto a nuevos desafíos profesionales
