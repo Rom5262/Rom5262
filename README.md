@@ -1,5 +1,7 @@
 ¡Hola! Soy Román
-🔧 Técnico en Mecánica industrial, con más de 30 años de experiencia en Mantenimiento Industrial. Actualmente en transición al análisis de datos
+🔧 Técnico en Mecánica industrial, con más de 30 años de experiencia en Mantenimiento Industrial⚙️
+Diagnóstico de maquinaria🗜️.
+Actualmente en transición al análisis de datos<img src="https://cdn-icons-png.flaticon.com/512/4149/4149643.png" width="60px">.
 🧠 Apasionado por la automatización, la resolución de problemas y la programación con Python
 📊 Me enfoco en traducir datos complejos en visualizaciones claras y decisiones efectivas
 🌎 Desde México, siempre aprendiendo y abierto a nuevos desafíos profesionales
@@ -8,6 +10,7 @@
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)  
 [![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)  
+[![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)  
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)](https://matplotlib.org/)  
 [![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
