@@ -1,10 +1,8 @@
-¡Hola! Soy Román
-🔧 Técnico en Mecánica industrial, con 30 años de experiencia en el Mantenimiento, en la Industria farmacéutica y almacén ⚙️.
-Diagnóstico de maquinaria🗜️. que la producción no se detenga.
-Actualmente en el análisis de datos.
-🧠 Apasionado por la resolución de problemas, la programación con Python y la visualización con PowerBI
-📊 Me enfoco en traducir datos complejos en visualizaciones claras y decisiones efectivas
-🌎 Desde México, siempre aprendiendo y abierto a nuevos desafíos profesionales.
+¡Hola! Soy Román 🔧 Técnico en Mecánica Industrial con 30 años de experiencia en mantenimiento, diagnóstico de maquinaria 🗜️ y continuidad operativa en la industria farmacéutica ⚙️.
+
+Actualmente estoy en transición hacia el análisis de datos 🧠, aplicando mi lógica operativa para resolver problemas y comenzar a programar con Python 🐍. Exploro visualización con Power BI 📊 en proyectos industriales, comerciales y de marketing.
+
+Me interesa traducir datos en visualizaciones claras que ayuden a tomar decisiones efectivas. 🌎 Desde México, sigo aprendiendo y abierto a nuevos desafíos profesionales.
 
 ### 📬 Contacto
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/roman-garay-pérez-202b09139)  
