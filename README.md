@@ -31,6 +31,8 @@ Actualmente en el análisis de datos.
 📱 **Planes de prepago**  
 🛒 **Carrito de compras**
 
+👉 Para verlos completos, [ingresa a mi perfil de GitHub]
+
 
 
 
