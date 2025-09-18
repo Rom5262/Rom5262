@@ -1,4 +1,4 @@
-¡Hola! Soy Román 🔧 
+# Hola, soy <span style="color: #007ACC;">Román</span>🔧 
 Experto en mecánica Industrial con 30 años  en el  mantenimiento, diagnóstico de maquinaria 🗜️ y continuidad operativa en la industria farmacéutica ⚙️, así como la logistica en la planeación de mantenimientos preventivos y correctivos.
 
 Actualmente estoy en transición hacia el análisis de datos 🧠, aplicando mi lógica operativa para resolver problemas y comenzar a programar con Python 🐍. Exploro visualización con Power BI 📊 en proyectos industriales, comerciales y de marketing.
