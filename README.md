@@ -1,3 +1,6 @@
+<img src="C:\Users\garay\Documents\PICS\img_case-studies02.png" width="40" height="40" alt="Icono representativo">
+
+
 # Hola, soy <span style="color: #388E3C;">Román</span>🔧 
 Experto en mecánica Industrial con 30 años  en el  mantenimiento, diagnóstico de maquinaria 🗜️ y continuidad operativa en la industria farmacéutica ⚙️, así como la logistica en la planeación de mantenimientos preventivos y correctivos.
 
