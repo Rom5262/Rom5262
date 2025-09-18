@@ -1,4 +1,4 @@
-<img src="C:\Users\garay\Documents\PICS\img_case-studies02.png" width="40" height="40" alt="Icono representativo">
+<img src="https://linktoleaders.com/wp-content/uploads/2020/08/final-1.jpg" width="40" height="40" alt="Icono representativo">
 
 
 # Hola, soy <span style="color: #388E3C;">Román</span>🔧 
