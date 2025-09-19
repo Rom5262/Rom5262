@@ -1,4 +1,6 @@
-<img src="https://linktoleaders.com/wp-content/uploads/2020/08/final-1.jpg" width="40" height="40" alt="Icono representativo">
+<p align="center">
+  <img src="https://linktoleaders.com/wp-content/uploads/2020/08/final-1.jpg" alt="Texto_alternativo" width="700" />
+</p>
 
 
 # Hola, soy <span style="color: #388E3C;">Román</span>🔧 
