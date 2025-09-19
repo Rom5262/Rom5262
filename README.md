@@ -28,14 +28,7 @@ Me interesa traducir datos en visualizaciones claras que ayuden a tomar decision
 [![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://www.tableau.com/)
 [![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 
-## 🚀 Proyectos destacados 🚀
 
-🎵 **Escucha la música**  
-🎮 **Videojuegos**  
-📱 **Planes de prepago**  
-🛒 **Carrito de compras**
-
-👉 Para verlos completos, [ingresa a mi perfil de GitHub]
 
 
 
