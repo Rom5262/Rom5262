@@ -4,9 +4,7 @@
 
 
 # Hola, soy <span style="color: #388E3C;">Román</span>🔧 
-Experto en mecánica Industrial con 30 años  en el  mantenimiento, diagnóstico de maquinaria 🗜️ y continuidad operativa en la industria farmacéutica ⚙️, así como la logistica en la planeación de mantenimientos preventivos y correctivos.
-
-Actualmente estoy en transición hacia el análisis de datos 🧠, aplicando mi lógica operativa para resolver problemas y comenzar a programar con Python 🐍. Exploro visualización con Power BI 📊 en proyectos industriales, comerciales y de marketing.
+Experto en mecánica industrial con 30 años de trayectoria en mantenimiento y logística, 🗜️especializado en aplicar análisis de datos 🧠 para optimizar procesos productivos. Combino experiencia práctica en maquinaria⚙️ y operaciones con herramientas de programación (Python, SQL) y visualización (Power BI, Tableau) 📊, generando soluciones que mejoran la eficiencia, reducen costos y aseguran la continuidad operativa
 
 Me interesa traducir datos en visualizaciones claras que ayuden a tomar decisiones efectivas. 🌎 Desde México, sigo aprendiendo y abierto a nuevos desafíos profesionales.
 
